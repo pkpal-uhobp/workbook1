@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/pkpal-uhobp/workbook1.git)
+- [Публичная страница на GitHub Pages](https://pkpal-uhobp.github.io/workbook1/)
